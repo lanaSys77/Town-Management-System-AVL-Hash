@@ -1,0 +1,3 @@
+Ramallah:Bireh:4000:520:yes
+Gaza:KhanYunis:9000:450:yes
+Jenin:Yabad:12000:200:yes
